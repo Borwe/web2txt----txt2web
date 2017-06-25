@@ -9,9 +9,9 @@
 </ul>
 
 <h2>#web2txt</h2>
-Running web2txt converts the website to text format, just run it in terminal or cmd:<br>
+Running <b>web2txt</b> converts the website to text format, just run it in terminal or cmd:<br>
 example <b>google.com</b> becomes <b>google[ dot ]com</b>
 
 <h2>#txt2web</h2>
-Does the opposite to web2txt and converts the text back to it's original form, just run <b>txt2web</b> in terminal or cmd:
+Does the opposite to <b>web2txt</b> and converts the text back to it's original form, just run <b>txt2web</b> in terminal or cmd:
 <br>example <b>google[ dot ]com</b> becomes <b>google.com</b>
